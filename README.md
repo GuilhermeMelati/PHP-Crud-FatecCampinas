@@ -16,5 +16,6 @@
 ```bash
 php -S localhost:8080
 ```
+Após isso acesse http://localhost:8080/view
 ## Dúvidas?
 gtmelati@gmail.com
