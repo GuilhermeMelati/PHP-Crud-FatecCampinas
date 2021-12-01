@@ -12,7 +12,7 @@
 
 - Inicie o MYSQL com o XAMP.
 - Importe dentro do PHPMYADMIN o arquivo script desse repositório.
-- Execute o comando dentro da pasta abaixo.
+- Execute o comando abaixo, dentro da pasta do repositório.
 ```bash
 php -S localhost:8080
 ```
